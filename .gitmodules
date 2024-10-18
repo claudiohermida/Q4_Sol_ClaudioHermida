@@ -1,0 +1,6 @@
+[submodule "rust-registration"]
+	path = rust-registration
+	url = https://github.com/claudiohermida/rust-registration.git
+[submodule "solana-starter"]
+	path = solana-starter
+	url = https://github.com/claudiohermida/solana-starter.git
