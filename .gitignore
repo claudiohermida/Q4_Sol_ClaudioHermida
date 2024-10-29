@@ -1,1 +1,6 @@
 /walllets
+# Add this to your .gitignore
+*.zip
+/Capstone LOI Flow/
+/anchor-escrow-q424/
+/test-ledger/
